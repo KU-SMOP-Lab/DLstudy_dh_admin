@@ -7,3 +7,10 @@
 - 질문 답변
 - 수업 자료
 
+## 2. 주차별 진행상황
+
+### 1주차
+- FL 강의 수강여부 확인 및 질문답변 (Lec 0,1)
+- GitHub repository
+- Python 세팅
+- PyTorch 맛보기
